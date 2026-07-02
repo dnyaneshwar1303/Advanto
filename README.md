@@ -68,7 +68,7 @@ Password: Admin@123
 
 ```
 Email: user@gmail.com
-Password: user@123
+Password: User@123
 ```
 ## Owner Login
 
