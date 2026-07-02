@@ -63,3 +63,16 @@ Password: Admin@123
 ```
 
 ---
+
+## NormalUser Login
+
+```
+Email: user@gmail.com
+Password: user@123
+```
+## Owner Login
+
+```
+Email: owner@gmail.com
+Password: Owner@123
+```
